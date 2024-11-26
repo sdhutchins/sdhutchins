@@ -16,7 +16,7 @@ Hi there! I'm Shaurita D. Hutchins, a PhD student in Genetics, Genomics, and Bio
 - 🛠️ **Tools & Tech**: 
   - Programming: Python, R, Bash.
   - Data Analysis: Pandas, Hail, clusterProfiler, tidyverse.
-  - Visualization: ggplot2, Streamlit, Shiny for R, ggpubr, .
+  - Visualization: ggplot2, Streamlit, Shiny for R, ggpubr.
   - Others: Knowledge graphs, relation extraction models.
 
 - 🤝 **Looking to Collaborate On**: 
@@ -28,11 +28,6 @@ Hi there! I'm Shaurita D. Hutchins, a PhD student in Genetics, Genomics, and Bio
   - Rare disease research, particularly pulmonary arterial hypertension.
   - Tips for developing reproducible pipelines and workflows.
   - Graduate school applications and advice for navigating the PhD journey.
-
-- 📫 **Reach Me**: 
-  - Email: [sdhutchins@uab.edu](mailto:sdhutchins@uab.edu)
-  - LinkedIn: [linkedin.com/in/sdhutchins](https://www.linkedin.com/in/sdhutchins/)
-  - X: [@shauritacodes](https://x.com/shauritacodes)
 
 - 😄 **Pronouns**: She/Her
 
