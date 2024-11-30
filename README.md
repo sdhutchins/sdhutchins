@@ -1,17 +1,17 @@
 ### Welcome to my GitHub Profile! 👋
 
-Hi there! I'm Shaurita D. Hutchins, a PhD student in Genetics, Genomics, and Bioinformatics at UAB. My work lies at the intersection of computational biology, rare disease research, and bioinformatics tool development. I focus on identifying genetic modifiers and uncovering novel insights to drive rare disease research forward. I'm passionate about leveraging technology, from machine learning to knowledge graphs, to solve challenging biological problems.
+Hi!! I'm Shaurita D. Hutchins, a PhD student in Genetics, Genomics, and Bioinformatics at UAB. My work lies at the intersection of computational biology, rare disease research, and bioinformatics tool development. I focus on identifying genetic modifiers and uncovering novel insights to drive rare disease research forward. I'm passionate about leveraging technology, from machine learning to knowledge graphs, to solve challenging biological problems.
 
 ---
+- 😄 **Pronouns**: She/Her
 
 - 🔬 **Currently Working On**: 
   - Developing pipelines for drug repositioning and gene-disease associations in pulmonary arterial hypertension research.
   - Building and contributing to open-source tools and resources for computational biology.
 
-- 🌱 **Always Learning**: 
+- 🌱 **Hoping to Learn**: 
   - Advanced machine learning techniques for biomedical applications.
   - Creative ways to integrate AI into reproducible and FAIR scientific practices.
-  - Tools like Hail, Streamlit, and Shiny for R for scalable data analysis and visualization.
 
 - 🛠️ **Tools & Tech**: 
   - Programming: Python, R, Bash.
@@ -20,7 +20,6 @@ Hi there! I'm Shaurita D. Hutchins, a PhD student in Genetics, Genomics, and Bio
   - Others: Knowledge graphs, relation extraction models.
 
 - 🤝 **Looking to Collaborate On**: 
-  - Knowledge graph-based projects for gene-disease associations.
   - LLM-based projects for scientific hypothesis generation.
   - Tools to support diversity in STEM and increase accessibility to computational biology.
 
@@ -28,9 +27,6 @@ Hi there! I'm Shaurita D. Hutchins, a PhD student in Genetics, Genomics, and Bio
   - Rare disease research, particularly pulmonary arterial hypertension.
   - Tips for developing reproducible pipelines and workflows.
   - Graduate school applications and advice for navigating the PhD journey.
-
-- 😄 **Pronouns**: She/Her
-
 ---
 
 Feel free to explore my repositories and connect if you'd like to collaborate or chat about science, tech, or computational biology!
