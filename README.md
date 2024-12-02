@@ -1,32 +1,33 @@
-### Welcome to my GitHub Profile! 👋
+# Welcome to My GitHub Profile! 👋
 
-Hi!! I'm Shaurita D. Hutchins, a PhD student in Genetics, Genomics, and Bioinformatics at UAB. My work lies at the intersection of computational biology, rare disease research, and bioinformatics tool development. I focus on identifying genetic modifiers and uncovering novel insights to drive rare disease research forward. I'm passionate about leveraging technology, from machine learning to knowledge graphs, to solve challenging biological problems.
+Hi!! I'm **Shaurita D. Hutchins**, a PhD student in Genetics, Genomics, and Bioinformatics at UAB. My work lies at the intersection of computational biology, rare disease research, and bioinformatics tool development. I focus on identifying genetic modifiers and uncovering novel insights to drive rare disease research forward. I'm passionate about leveraging technology, from machine learning to knowledge graphs, to solve challenging biological problems.
 
 ---
-- 😄 **Pronouns**: She/Her
 
-- 🔬 **Currently Working On**: 
-  - Developing pipelines for drug repositioning and gene-disease associations in pulmonary arterial hypertension research.
-  - Building and contributing to open-source tools and resources for computational biology.
+![GitHub followers](https://img.shields.io/github/followers/sdhutchins?style=social) ![GitHub Stars](https://img.shields.io/github/stars/sdhutchins?style=social)  
 
-- 🌱 **Hoping to Learn**: 
-  - Advanced machine learning techniques for biomedical applications.
-  - Creative ways to integrate AI into reproducible and FAIR scientific practices.
+## 😄 Pronouns
+She/Her/Hers
 
-- 🛠️ **Tools & Tech**: 
-  - Programming: Python, R, Bash.
-  - Data Analysis: Pandas, Hail, clusterProfiler, tidyverse.
-  - Visualization: ggplot2, Streamlit, Shiny for R, ggpubr.
-  - Others: Knowledge graphs, relation extraction models.
+## 🔬 Currently Working On  
+- Developing pipelines for **drug repositioning** and **gene-disease associations** in pulmonary arterial hypertension research.  
+- Building and contributing to **open-source tools and resources** for computational biology.
 
-- 🤝 **Looking to Collaborate On**: 
-  - LLM-based projects for scientific hypothesis generation.
-  - Tools to support diversity in STEM and increase accessibility to computational biology.
+## 🌱 Hoping to Learn  
+- Advanced **machine learning techniques** for biomedical applications.  
+- Creative ways to integrate **AI** into reproducible and FAIR scientific practices.
 
-- 💬 **Ask Me About**: 
-  - Rare disease research, particularly pulmonary arterial hypertension.
-  - Tips for developing reproducible pipelines and workflows.
-  - Graduate school applications and advice for navigating the PhD journey.
+## 🛠️ Tools & Tech  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)  
+
+## 🤝 Looking to Collaborate On  
+- **LLM-based projects** for scientific hypothesis generation.  
+- Tools to support **diversity in STEM** and increase accessibility to computational biology.
+
+## 💬 Ask Me About  
+- Rare disease research, particularly **pulmonary arterial hypertension**.  
+- Tips for developing **reproducible pipelines** and workflows.  
+- Graduate school applications and advice for navigating the **PhD journey**.
+
 ---
-
-Feel free to explore my repositories and connect if you'd like to collaborate or chat about science, tech, or computational biology!
+Feel free to explore my repositories and connect if you'd like to collaborate or chat about science, tech, or computational biology! 🚀
