@@ -2,7 +2,7 @@
 
 Hi!! I'm **Shaurita D. Hutchins**, a PhD student in Genetics, Genomics, and Bioinformatics at UAB. My work lies at the intersection of computational biology, rare disease research, and bioinformatics tool development. I focus on identifying genetic modifiers and uncovering novel insights to drive rare disease research forward. I'm passionate about leveraging technology, from machine learning to knowledge graphs, to solve challenging biological problems.
 
-![GitHub followers](https://img.shields.io/github/followers/sdhutchins?style=social) ![GitHub Stars](https://img.shields.io/github/stars/sdhutchins?style=social)  
+Explore a few [open-source Shiny and Streamlit apps](https://connect.posit.cloud/sdhutchins) I've built.
 
 ## 😄 Pronouns
 She/Her/Hers
