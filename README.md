@@ -13,7 +13,7 @@ Explore some [open-source apps](https://connect.posit.cloud/sdhutchins) I've bui
   - [View my collaboration repo](https://github.com/sdhutchins/ideas-for-collaboration)  
 - **Topics I Love Discussing:**  
   - Rare disease research (especially Heritable Pulmonary Arterial Hypertension)  
-  - Increasing public science funding and scientific literacy  
+  - Systems thinking - Talking about and thinking about thinking
 
 ## 🛠️ Tools & Tech  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![OpenStack](https://img.shields.io/badge/OpenStack-E95420?style=for-the-badge&logo=openstack&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Shiny](https://img.shields.io/badge/Shiny-blue?style=for-the-badge&logo=r&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
